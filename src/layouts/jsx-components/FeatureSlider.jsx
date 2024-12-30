@@ -4,8 +4,8 @@ import * as Icon from "react-feather";
 import SwiperCore from "swiper";
 import "swiper/css";
 import "swiper/css/pagination";
-import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination } from "swiper/modules";
+import { Swiper, SwiperSlide } from "swiper/react";
 
 const FeatureSlider = ({ features }) => {
   SwiperCore.use([Pagination]);
@@ -36,7 +36,7 @@ const FeatureSlider = ({ features }) => {
           },
         }}
         // spaceBetween={20}
-        // autoplay={{ delay: 3000 }}
+        autoplay={{ delay: 3000 }}
       >
         {features.list.map((item, index) => {
           const FeatherIcon = Icon[humanize(item.icon)];
