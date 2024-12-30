@@ -1,5 +1,5 @@
 ---
-title: "Sobre Nós"
+title: "Sobre a Gaea"
 description: "Sobre a Gaea Consultoria Ambiental"
 draft: false
 

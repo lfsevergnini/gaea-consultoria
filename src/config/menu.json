@@ -5,8 +5,8 @@
       "url": "/"
     },
     {
-      "name": "Sobre Nós",
-      "url": "/about"
+      "name": "Sobre a Gaea",
+      "url": "/sobre"
     },
     {
       "name": "Serviços",
@@ -51,13 +51,13 @@
     },
     {
       "name": "Contato",
-      "url": "/contact"
+      "url": "/contato"
     }
   ],
   "footer": [
     {
-      "name": "Sobre Nós",
-      "url": "/about"
+      "name": "Sobre a Gaea",
+      "url": "/sobre"
     },
     {
       "name": "Serviços",
@@ -65,7 +65,7 @@
     },
     {
       "name": "Contato",
-      "url": "/contact"
+      "url": "/contato"
     }
   ]
 }

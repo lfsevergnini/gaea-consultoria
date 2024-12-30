@@ -8,6 +8,7 @@ import { markdownify } from "@/lib/utils/textConverter";
 const { footer } = menu;
 const { copyright } = config.params;
 const { location, email, contact, description } = config.footer_data;
+const { contact_link} = config.phone;
 ---
 
 <footer class="mt-24">
@@ -70,7 +71,7 @@ const { location, email, contact, description } = config.footer_data;
             <li>
               <a
                 class="hover:text-primary hover:underline"
-                href={`tel:${contact}`}>{contact}</a
+                href={contact_link}>{contact}</a
               >
             </li>
           </ul>
