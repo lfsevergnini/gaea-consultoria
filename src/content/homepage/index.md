@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "Gaea Consultoria Ambiental é a sua parceira em soluções ambientais sustentáveis"
+  title: "Gaea é a sua parceira em soluções ambientais sustentáveis"
   image: /images/bannerimage.webp
   meta: "Consultoria Ambiental"
   link:

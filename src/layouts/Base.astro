@@ -180,6 +180,34 @@ const {
       }`}
     />
     <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Schema.org LocalBusiness -->
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": config.site.logo_text,
+      "url": config.site.base_url,
+      "image": `${config.site.base_url}${config.site.logo}`,
+      "description": config.metadata.meta_description,
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "BR",
+        "streetAddress": config.footer_data.address,
+        "addressLocality": config.footer_data.location,
+        "postalCode": config.footer_data.postal_code
+      },
+      "telephone": config.footer_data.contact,
+      "email": config.footer_data.email
+    })} />
+
+    <!-- Schema.org WebSite -->
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org/",
+      "@type": "WebSite",
+      "name": config.site.title,
+      "url": config.site.base_url,
+      "description": config.metadata.meta_description
+    })} />
   </head>
   <body>
     <TwSizeIndicator />

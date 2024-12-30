@@ -7,12 +7,18 @@ const {
   logo_width,
   logo_height,
   logo_text,
+  logo_mobile,
+  logo_mobile_width,
+  logo_mobile_height,
   title,
 }: {
   logo: string;
   logo_width: any;
   logo_height: any;
   logo_text: string;
+  logo_mobile: string;
+  logo_mobile_width: any;
+  logo_mobile_height: any;
   title: string;
 } = config.site;
 ---
@@ -25,7 +31,14 @@ const {
         height={logo_height.replace("px", "") * 2}
         src={src ? src : logo}
         alt={title}
-        class="h-7 w-auto md:h-[204px] md:w-[383px]"
+        class="w-[383px] !h-auto hidden md:block"
+      />
+      <Image
+        width={logo_mobile_width.replace("px", "") * 2}
+        height={logo_mobile_height.replace("px", "") * 2}
+        src={logo_mobile}
+        alt={title}
+        class="w-[200px] !h-auto block md:hidden"
       />
     ) : logo_text ? (
       logo_text

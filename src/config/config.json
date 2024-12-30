@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Gaea Consultoria Ambiental",
+    "title": "Gaea Consultoria Ambiental | Consultoria Ambiental | Serra Gaúcha - RS",
     "base_url": "https://www.gaeaconsultoria.com.br",
     "base_path": "/",
     "trailing_slash": false,
@@ -8,13 +8,16 @@
     "logo": "/images/logo.svg",
     "logo_width": "383",
     "logo_height": "204",
+    "logo_mobile": "/images/logo-mobile.png",
+    "logo_mobile_width": "344",
+    "logo_mobile_height": "100",
     "logo_text": "Gaea Consultoria Ambiental"
   },
 
   "metadata": {
     "meta_author": "Gaea Consultoria Ambiental",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Consultoria especializada em gestão empresarial",
+    "meta_description": "A Gaea Consultoria Ambiental presta serviços de assessoria ambiental, licenciamento ambiental, gestão de resíduos sólidos, monitoramento ambiental, implantação e auditorias internas da ISO 9001 e 14001. Entre em contato conosco e agende uma avaliação. Soluções para seus problemas com engenharia sustentável!",
     "meta_language": "pt-BR"
   },
 
@@ -33,6 +36,8 @@
     "description": "Consultoria especializada em engenharia ambiental e soluções sustentáveis.",
     "email": "contato@gaeaconsultoria.com.br",
     "location": "Serra Gaúcha - RS, Brasil",
+    "address": "Atendimento sob agendamento - R. da República, 425 - 6º Andar - Centro, Farroupilha - RS",
+    "postal_code": "95170-484",
     "contact": "(54) 99264-8582"
   },
 
