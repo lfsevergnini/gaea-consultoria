@@ -21,28 +21,43 @@ brands:
 
 #features
 features:
-  sub_title: SPECIAL FEATURES
-  title: Elements To </br> Get You Started
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  sub_title: "NOSSOS SERVIÇOS"
+  title: "Soluções Ambientais Completas"
+  description: "Oferecemos uma ampla gama de serviços em consultoria ambiental para atender às necessidades do seu negócio"
   list:
-    - icon: "lock"
-      title: Updated Security
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: "wind"
-      title: Magnetic Turning
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: "shield"
-      title: Secured & up-to-date
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: "link"
-      title: Instant Link Sharing
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: "lock"
-      title: Updated Security
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: "wind"
-      title: Magnetic Turning
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    - icon: "Package"
+      title: "Plano de Gerenciamento de Resíduos Sólidos"
+      content: "Desenvolvimento e implementação de planos para gestão adequada de resíduos"
+    - icon: "FileText"
+      title: "Licenciamento Ambiental"
+      content: "Assessoria completa em processos de licenciamento"
+    - icon: "BarChart2"
+      title: "Monitoramento Ambiental"
+      content: "Acompanhamento e análise de indicadores ambientais"
+    - icon: "Map"
+      title: "Cadastro Ambiental Rural"
+      content: "Regularização ambiental de propriedades rurais"
+    - icon: "CloudRain"
+      title: "Outorga de Uso da Água"
+      content: "Regularização do uso de recursos hídricos"
+    - icon: "Globe"
+      title: "Plano de Recuperação de Áreas Degradadas"
+      content: "Projetos de recuperação e restauração ambiental"
+    - icon: "Droplet"
+      title: "Projeto de Captação de Água da Chuva"
+      content: "Soluções sustentáveis para aproveitamento de águas pluviais"
+    - icon: "Shield"
+      title: "Cadastros do IBAMA"
+      content: "Regularização junto ao IBAMA"
+    - icon: "Book"
+      title: "Educação Ambiental"
+      content: "Programas e treinamentos em educação ambiental"
+    - icon: "Award"
+      title: "ISO 9001"
+      content: "Consultoria para implementação da ISO 9001"
+    - icon: "Star"
+      title: "ISO 14001"
+      content: "Consultoria para implementação da ISO 14001"
 
 #intro
 intro:
