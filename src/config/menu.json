@@ -1,16 +1,16 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Página Inicial",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Sobre Nós",
       "url": "/about"
     },
     {
-      "name": "How It Works",
-      "url": "/how-it-works"
+      "name": "Serviços",
+      "url": "/services"
     },
     {
       "name": "Blog",
@@ -36,11 +36,6 @@
           "url": "/pricing"
         },
         {
-          "name": "Sign In",
-          "url": "/signin"
-        },
-
-        {
           "name": "Elements",
           "url": "/elements"
         },
@@ -55,26 +50,22 @@
       ]
     },
     {
-      "name": "Contact",
+      "name": "Contato",
       "url": "/contact"
     }
   ],
   "footer": [
     {
-      "name": "About",
+      "name": "Sobre Nós",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Serviços",
+      "url": "/services"
+    },
+    {
+      "name": "Contato",
       "url": "/contact"
-    },
-    {
-      "name": "Terms And Conditions",
-      "url": "/terms-and-conditions"
-    },
-    {
-      "name": "Changelog",
-      "url": "/changelog"
     }
   ]
 }
