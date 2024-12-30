@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "Soluções em Engenharia Ambiental"
+  title: "Gaea Consultoria Ambiental é a sua parceira em soluções ambientais sustentáveis"
   image: /images/bannerimage.webp
   meta: "Consultoria Ambiental"
   link:
@@ -8,16 +8,16 @@ banner:
     href: "#"
 
 ##brands
-brands:
-  - /images/brands/01-colored.png
-  - /images/brands/02-colored.png
-  - /images/brands/03-colored.png
-  - /images/brands/04-colored.png
-  - /images/brands/05-colored.png
-  - /images/brands/06-colored.png
-  - /images/brands/04-colored.png
-  - /images/brands/05-colored.png
-  - /images/brands/06-colored.png
+# brands:
+#   - /images/brands/01-colored.png
+#   - /images/brands/02-colored.png
+#   - /images/brands/03-colored.png
+#   - /images/brands/04-colored.png
+#   - /images/brands/05-colored.png
+#   - /images/brands/06-colored.png
+#   - /images/brands/04-colored.png
+#   - /images/brands/05-colored.png
+#   - /images/brands/06-colored.png
 
 #features
 features:
