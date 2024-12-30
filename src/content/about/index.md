@@ -1,13 +1,13 @@
 ---
-title: "About"
-description: "meta description"
+title: "Sobre Nós"
+description: "Sobre a Gaea Consultoria Ambiental"
 draft: false
 
 ## about us
 about_us:
-  subtitle: WHO WE ARE
-  title: Hello, We’re Andromeda Here For Your Help
-  description: Your online Health & Fitness companion that offers free assistance on its Facebook Group and provides quality paid guided personal training packages by and through website. We are the first ever, online manifesto in Bangladesh to make place you will select when you think of getting fit
+  subtitle: Quem Somos
+  title: Somos a Gaea e estamos aqui para ajudar
+  description: A Gaea Consultoria Ambiental é uma empresa especializada em prestar serviços de assessoria e consultoria ambiental para os mais diversos setores da sociedade, com forte atuação na Serra Gaúcha. Com mais de cinco anos de experiência na área, nosso compromisso é com o desenvolvimento sustentável e o cumprimento rigoroso da legislação ambiental, oferecendo soluções personalizadas para cada cliente.
   image: /images/about/01.jpg
 
 ## our works
@@ -26,9 +26,9 @@ works:
 
 ## our mission
 mission:
-  subtitle: OUR MISSION
-  title: Main Vision And Mission Of Our Company
-  description: We were freelance designers and developers, constantly finding ourselve deep vague feedback. leaving a notes from the sticky note piece .
+  subtitle: Nossa Missão
+  title: Visão Principal e Missão da Nossa Empresa
+  description: Nossa missão é ser um parceiro estratégico, ajudando empresas a implementar ações que garantam a conformidade ambiental e o desenvolvimento sustentável.
   image: /images/about/02.jpg
 
 ## short video
@@ -56,19 +56,16 @@ clients:
 
 ## members
 our_member:
-  subtitle: OUR MEMBERS
-  title: The People Behind
-  description: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
+  subtitle: Nossos Membros
+  title: Quem Está Por Trás
+  description: Fundada por **Bárbara Panisson Lopes**, engenheira sanitarista e ambiental com pós-graduação em Educação Ambiental e Sustentabilidade e Gestão de Projetos, a Gaea se destaca pela expertise técnica e pelo compromisso em **promover práticas que preservem o meio ambiente**, ao mesmo tempo em que atendem às **necessidades de negócios de nossos clientes**. Contamos com uma equipe parceira multidisciplinar, formada por especialistas das mais diversas áreas, garantindo abordagens integradas e soluções completas para os desafios ambientais.
   list:
-    - name: Valentin Staykov
-      field: CEO
+    - name: Bárbara Panisson
+      field: Engenheira Sanitarista e Ambiental | CEO
       image: /images/about/team/01.webp
-    - name: Bukiakta Bansalo
-      field: Product Manager
-      image: /images/about/team/02.webp
-    - name: Ortrin Okaster
-      field: Software Engineer
-      image: /images/about/team/03.webp
+    - name: Luís Severgnini
+      field: Especialista em Soluções Digitais
+      image: /images/about/team/01.webp
 
 ## office
 our_office:

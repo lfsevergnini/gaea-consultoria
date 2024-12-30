@@ -1,11 +1,11 @@
 ---
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
+  title: "Soluções em Engenharia Ambiental"
   image: /images/bannerimage.webp
-  meta: "this is meta"
+  meta: "Consultoria Ambiental"
   link:
-    label: Buy This Theme
-    href: "https://themefisher.com/products/andromeda-astro"
+    label: "Solicite um Orçamento"
+    href: "#"
 
 ##brands
 brands:
