@@ -1,14 +1,21 @@
 {
   "site": {
-    "title": "Andromeda Astro",
-    "base_url": "https://andromeda-astro.vercel.app",
+    "title": "Gaea Consultoria Ambiental",
+    "base_url": "https://www.gaeaconsultoria.com.br",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "257",
     "logo_height": "36",
-    "logo_text": "Andromeda"
+    "logo_text": "Gaea Consultoria Ambiental"
+  },
+
+  "metadata": {
+    "meta_author": "Gaea Consultoria Ambiental",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Consultoria especializada em gestão empresarial",
+    "meta_language": "pt-BR"
   },
 
   "settings": {
@@ -19,45 +26,40 @@
   "params": {
     "contact_form_action": "#",
     "career_form_action": "#",
-    "copyright": "Designed & Developed By [Themefisher](https://themefisher.com)"
+    "copyright": "© 2024 Gaea Consultoria Ambiental. Todos os direitos reservados."
   },
 
   "footer_data": {
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
-    "contact": "+704-555-0127"
+    "description": "Consultoria especializada em engenharia ambiental e soluções sustentáveis.",
+    "email": "contato@gaeaconsultoria.com.br",
+    "location": "Serra Gaúcha - RS, Brasil",
+    "contact": "(54) 99264-8582"
   },
 
   "call_to_action": {
     "enable": false,
-    "title": "Helping Teams In The World With Focus",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br/> Werat viverra id et aliquet. vulputate egestas sollicitudin.",
+    "title": "Solicite um orçamento",
+    "content": "Solicite um orçamento para o serviço de consultoria ambiental.",
     "button": {
-      "label": "Download Now",
+      "label": "Solicitar Orçamento",
       "link": "#"
     }
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   },
 
-  "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "astro boilerplate"
-  },
-
   "email": {
-    "title": "Email Address",
-    "contact": ["info@andromeda.io", "jon@anderson.io", "russel@andre.com"]
+    "title": "Email",
+    "contact": ["contato@gaeaconsultoria.com.br"]
   },
 
   "phone": {
-    "title": "Phone",
-    "contact": ["+704-555-0127", "+704-555-0127", "+704-555-0127"]
+    "title": "Telefone",
+    "contact": ["(54) 99264-8582"],
+    "contact_link": "tel:+5554992648582"
   }
 }

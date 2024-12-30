@@ -106,7 +106,7 @@ const { title, description, meta_title, image } = entry.data;
             </div>
           </div>
           <div
-            class="contact-widget md:col-6 lg:col-4 xl:col-3"
+            class="contact-widget md:col-6 lg:col-3"
             data-aos="fade-up"
           >
             <div class="rounded-lg px-6 py-12 text-center shadow">
@@ -115,7 +115,7 @@ const { title, description, meta_title, image } = entry.data;
                 {
                   phone.contact.map((item) => (
                     <li>
-                      <a href="tel:+704-555-0127">
+                      <a href={phone.contact_link}>
                         <i class="las la-phone" />
                         {item}
                       </a>
@@ -126,7 +126,7 @@ const { title, description, meta_title, image } = entry.data;
             </div>
           </div>
           <div
-            class="contact-widget md:col-6 lg:col-4 xl:col-3"
+            class="contact-widget md:col-6"
             data-aos="fade-up"
             data-aos-delay="100"
           >
@@ -136,7 +136,7 @@ const { title, description, meta_title, image } = entry.data;
                 {
                   email.contact.map((item) => (
                     <li>
-                      <a href="mailto:info@/andromeda.io">
+                      <a href={`mailto:${item}`}>
                         <i class="las la-envelope-open-text" />
                         {item}
                       </a>
@@ -147,12 +147,12 @@ const { title, description, meta_title, image } = entry.data;
             </div>
           </div>
           <div
-            class="contact-widget aos-init aos-animate md:col-6 lg:col-4 xl:col-3"
+            class="contact-widget aos-init aos-animate md:col-6 lg:col-3"
             data-aos="fade-up"
             data-aos-delay="200"
           >
             <div class="rounded-lg px-6 py-12 text-center shadow">
-              <h3 class="mb-6 text-h5">Social Media</h3>
+              <h3 class="mb-6 text-h5">Redes Sociais</h3>
               <ContactSocial source={social} className="contact-social" />
             </div>
           </div>
