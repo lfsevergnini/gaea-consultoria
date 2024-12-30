@@ -1,8 +1,8 @@
 {
-  "name": "andromeda-astro",
+  "name": "gaea-consultoria",
   "version": "2.0.1",
-  "description": "astro saas theme",
-  "author": "themefisher",
+  "description": "Website da Gaea Consultoria - Astro Andromeda Theme",
+  "author": "lfsevergnini",
   "license": "UNLICENSED",
   "packageManager": "yarn@1.22.19",
   "scripts": {
