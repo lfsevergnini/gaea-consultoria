@@ -10,7 +10,18 @@
     },
     {
       "name": "Serviços",
-      "url": "/services"
+      "url": "/servicos",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Todos os Serviços",
+          "url": "/servicos"
+        },
+        {
+          "name": "Licenciamento Ambiental",
+          "url": "/servicos/licenciamento-ambiental"
+        }
+      ]
     },
     {
       "name": "Blog",
@@ -61,7 +72,7 @@
     },
     {
       "name": "Serviços",
-      "url": "/services"
+      "url": "/servicos"
     },
     {
       "name": "Contato",
