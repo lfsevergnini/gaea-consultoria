@@ -37,7 +37,7 @@
   },
 
   "call_to_action": {
-    "enable": false,
+    "enable": true,
     "title": "Solicite um orçamento",
     "content": "Solicite um orçamento para o serviço de consultoria ambiental.",
     "button": {
