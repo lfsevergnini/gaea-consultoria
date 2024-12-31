@@ -37,6 +37,11 @@ Para realizar o cadastro, são necessários:
 - Áreas consolidadas
 - Reservas Legais
 
-![image](/images/bannerimage.webp)
+![Imagem aérea panorâmica de um rio com remanescentes de vegetação nativa](/images/services/car-2.jpg)
+
+<div class="flex flex-col md:flex-row gap-4">
+  <img src="/images/services/car-1.jpg" alt="Propriedade rural" class="w-full md:w-1/2 h-auto" />
+  <img src="/images/services/car-3.jpg" alt="Máquina agrícola colhendo soja" class="w-full md:w-1/2 h-auto" />
+</div>
 
 [Clique aqui](/servicos) para consultar outros serviços. 

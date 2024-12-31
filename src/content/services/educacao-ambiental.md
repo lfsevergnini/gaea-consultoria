@@ -21,6 +21,8 @@ A Lei 9795/1999 institui a **Política Nacional de Educação Ambiental**. A Edu
 - Culturais
 - Éticos
 
+![Crianças brincando em um parque com lupas observando insetos](/images/services/educacao-1.jpg)
+
 ### Nossos Serviços em Educação Ambiental
 
 Oferecemos diversos serviços para promover a educação ambiental:
@@ -33,6 +35,9 @@ Oferecemos diversos serviços para promover a educação ambiental:
 - Formações específicas
 - Palestras temáticas
 
-![image](/images/bannerimage.webp)
+<div class="flex flex-col md:flex-row gap-4">
+  <img src="/images/services/educacao-2.jpg" alt="Latas de lixo seletivo" class="w-full md:w-1/2 h-auto" />
+  <img src="/images/services/educacao-3.jpg" alt="Pessoa com muda de árvore em mãos" class="w-full md:w-1/2 h-auto" />
+</div>
 
 [Clique aqui](/servicos) para consultar outros serviços. 

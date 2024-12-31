@@ -41,7 +41,14 @@ A outorga é necessária para todos que pretendam fazer uso de águas superficia
 - Obras hidráulicas como barragens, retificações, canalizações e drenagens
 - Serviços de dragagem minerária, limpeza e desassoreamento
 
-![image](/images/bannerimage.webp)
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+  <img src="/images/services/outorga-1.jpg" alt="Gado bebendo água" class="w-full h-auto" />
+  <img src="/images/services/outorga-2.jpg" alt="Mangueira de irrigação automática" class="w-full h-auto" />
+  <img src="/images/services/outorga-3.jpg" alt="Bomba de irrigação" class="w-full h-auto" />
+  <img src="/images/services/outorga-5.jpg" alt="Leito de um rio com vegetação nativa" class="w-full h-auto" />
+  <img src="/images/services/outorga-6.jpg" alt="Irrigação no campo" class="w-full h-auto" />
+  <img src="/images/services/outorga-4.jpg" alt="Jovens banhando no rio próximo a uma cachoeira" class="w-full h-auto" />
+</div>
 
 *Não oferecemos o serviço de outorga para águas subterrâneas.
 

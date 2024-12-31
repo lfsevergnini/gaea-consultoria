@@ -23,6 +23,11 @@ O PRAD é necessário quando houver intervenções em:
 - Recuperação de Ambientes Naturais Não Protegidos
 - Arborização Urbana
 
-![image](/images/bannerimage.webp)
+![Árove nativa vista de baixo](/images/services/prad-1.jpg)
+
+<div class="flex flex-col md:flex-row gap-4">
+  <img src="/images/services/prad-2.jpg" alt="Pássaro na floresta" class="w-full md:w-1/2 h-auto" />
+  <img src="/images/services/prad-3.jpg" alt="Coruja no alto de uma árvore" class="w-full md:w-1/2 h-auto" />
+</div>
 
 [Clique aqui](/servicos) para consultar outros serviços. 
