@@ -42,13 +42,15 @@ const FeatureSlider = ({ features }) => {
           const FeatherIcon = Icon[humanize(item.icon)];
           return (
             <SwiperSlide key={"feature-" + index}>
-              <div className="features-card group z-30 cursor-pointer">
-                <div className="icon flex items-center justify-center text-primary group-hover:bottom-0 group-hover:top-auto  group-hover:duration-100 group-hover:ease-in group-hover:after:h-full">
-                  <FeatherIcon />
+              <a href={item.link}>
+                <div className="features-card group z-30 cursor-pointer">
+                  <div className="icon flex items-center justify-center text-primary group-hover:bottom-0 group-hover:top-auto  group-hover:duration-100 group-hover:ease-in group-hover:after:h-full">
+                    <FeatherIcon />
+                  </div>
+                  <h3 className="h5 mb-5 mt-6">{item.title}</h3>
+                  <p>{item.content}</p>
                 </div>
-                <h3 className="h5 mb-5 mt-6">{item.title}</h3>
-                <p>{item.content}</p>
-              </div>
+              </a>
             </SwiperSlide>
           );
         })}

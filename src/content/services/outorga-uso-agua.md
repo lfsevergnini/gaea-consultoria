@@ -4,7 +4,7 @@ order: 6
 draft: false
 title: "Outorga de Uso da Água"
 description: "Autorização do Poder Público para o uso de recursos hídricos por prazo determinado"
-icon: "FileText"
+icon: "CloudRain"
 ---
 
 ### O que é a Outorga de Uso da Água?

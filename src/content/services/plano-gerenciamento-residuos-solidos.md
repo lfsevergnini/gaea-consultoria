@@ -4,7 +4,7 @@ order: 2
 draft: false
 title: "Plano de Gerenciamento de Resíduos Sólidos"
 description: "O PGRS é um documento que demonstra a capacidade de uma empresa de gerir adequadamente seus resíduos sólidos"
-icon: "FileText"
+icon: "Package"
 ---
 
 ### O que é um PGRS?

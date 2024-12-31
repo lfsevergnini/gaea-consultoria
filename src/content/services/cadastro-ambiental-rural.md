@@ -4,7 +4,7 @@ order: 5
 draft: false
 title: "Cadastro Ambiental Rural"
 description: "Registro público obrigatório para todos os imóveis rurais, integrando informações ambientais das propriedades"
-icon: "FileText"
+icon: "Map"
 ---
 
 ### O que é o Cadastro Ambiental Rural?

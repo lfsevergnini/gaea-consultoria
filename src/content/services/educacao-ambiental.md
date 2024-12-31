@@ -4,7 +4,7 @@ order: 9
 draft: false
 title: "Educação Ambiental"
 description: "Desenvolvimento da compreensão integrada do meio ambiente em suas múltiplas relações"
-icon: "FileText"
+icon: "Book"
 ---
 
 ### Você sabia que Educação Ambiental é Lei?

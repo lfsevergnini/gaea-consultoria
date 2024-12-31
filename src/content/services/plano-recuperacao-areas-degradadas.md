@@ -4,7 +4,7 @@ order: 7
 draft: false
 title: "Plano de Recuperação de Áreas Degradadas"
 description: "Planejamento de ações para recuperação de áreas com vegetação nativa suprimida"
-icon: "FileText"
+icon: "Globe"
 ---
 
 ### O que é um Plano de Recuperação de Áreas Degradadas?

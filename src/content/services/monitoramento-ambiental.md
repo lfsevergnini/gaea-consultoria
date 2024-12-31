@@ -4,7 +4,7 @@ order: 4
 draft: false
 title: "Monitoramento Ambiental"
 description: "Acompanhamento sistemático das variáveis ambientais para garantir a qualidade do meio ambiente"
-icon: "FileText"
+icon: "BarChart2"
 ---
 
 ### O que é monitoramento ambiental?

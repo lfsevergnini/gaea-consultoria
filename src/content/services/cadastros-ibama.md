@@ -4,7 +4,7 @@ order: 8
 draft: false
 title: "Cadastros do IBAMA"
 description: "Registro obrigatório de atividades potencialmente poluidoras e utilizadoras de recursos ambientais"
-icon: "FileText"
+icon: "Shield"
 ---
 
 ### O que é o Cadastro do IBAMA?
