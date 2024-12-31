@@ -21,8 +21,13 @@ O Monitoramento Ambiental é aplicado em diferentes atividades dentro da consult
 - Monitoramento da Fauna Silvestre
 - Controle e Monitoramento da Qualidade das Águas, Solo e Ar
 
-![image](/images/bannerimage.webp)
+![Córrego rochoso na natureza](/images/services/monitoramento-3.jpg)
 
 O monitoramento é adequado conforme a necessidade, considerando a atividade desenvolvida e os fatores necessários para manter a qualidade ambiental do local, recursos ambientais e população.
+
+<div class="flex flex-col md:flex-row gap-4">
+  <img src="/images/services/monitoramento-2.jpg" alt="Poço artesiano" class="w-full md:w-1/2 h-auto" />
+  <img src="/images/services/monitoramento-1.jpg" alt="Exame de qualidade da água" class="w-full md:w-1/2 h-auto" />
+</div>
 
 [Clique aqui](/servicos) para consultar outros serviços. 

@@ -24,7 +24,7 @@ Os empreendimentos que precisam do PGRS são:
 - Frigoríficos, matadouros e abatedouros
 - Indústria de processamento de grãos
 
-![image](/images/bannerimage.webp)
+![Caminhão de lixo seletivo](/images/services/pgrs-caminhao-lixo.jpg)
 
 Se sua empresa se encaixa em alguma destas atividades, entre em contato e solicite um orçamento!
 
