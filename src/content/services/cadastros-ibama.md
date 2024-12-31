@@ -1,5 +1,6 @@
 ---
 date: "2024-12-30"
+order: 8
 draft: false
 title: "Cadastros do IBAMA"
 description: "Registro obrigatório de atividades potencialmente poluidoras e utilizadoras de recursos ambientais"

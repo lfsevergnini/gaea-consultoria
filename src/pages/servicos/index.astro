@@ -22,7 +22,7 @@ const { title } = services_index?.data;
         <div class="md:col-10 lg:col-8">
           <div class="row justify-center">
             {
-              services.map((item: any) => {
+              services.sort((a: any, b: any) => a.data.order - b.data.order).map((item: any) => {
                 const FeatherIcon = Icon[humanize(item.data.icon) as keyof typeof Icon];
 
                 return (

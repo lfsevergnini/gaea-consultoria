@@ -20,6 +20,46 @@
         {
           "name": "Licenciamento Ambiental",
           "url": "/servicos/licenciamento-ambiental"
+        },
+        {
+          "name": "Plano de Gerenciamento de Resíduos Sólidos",
+          "url": "/servicos/plano-gerenciamento-residuos-solidos"
+        },
+        {
+          "name": "Projeto de Captacao de Agua de Chuva",
+          "url": "/servicos/projeto-captacao-agua-chuva"
+        },
+        {
+          "name": "Monitoramento Ambiental",
+          "url": "/servicos/monitoramento-ambiental"
+        },
+        {
+          "name": "Cadastro Ambiental Rural",
+          "url": "/servicos/cadastro-ambiental-rural"
+        },
+        {
+          "name": "Outorga de Uso de Água",
+          "url": "/servicos/outorga-uso-agua"
+        },
+        {
+          "name": "Plano de Recuperação de Áreas Degradadas",
+          "url": "/servicos/plano-recuperacao-areas-degradadas"
+        },
+        {
+          "name": "Cadastros no Ibama",
+          "url": "/servicos/cadastros-ibama"
+        },
+        {
+          "name": "Educação Ambiental",
+          "url": "/servicos/educacao-ambiental"
+        },
+        {
+          "name": "ISO 9001",
+          "url": "/servicos/iso-9001"
+        },
+        {
+          "name": "ISO 14001",
+          "url": "/servicos/iso-14001"
         }
       ]
     },

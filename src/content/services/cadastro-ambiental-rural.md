@@ -1,5 +1,6 @@
 ---
 date: "2024-12-30"
+order: 5
 draft: false
 title: "Cadastro Ambiental Rural"
 description: "Registro público obrigatório para todos os imóveis rurais, integrando informações ambientais das propriedades"

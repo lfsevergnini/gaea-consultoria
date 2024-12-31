@@ -1,5 +1,6 @@
 ---
 date: "2024-12-30"
+order: 7
 draft: false
 title: "Plano de Recuperação de Áreas Degradadas"
 description: "Planejamento de ações para recuperação de áreas com vegetação nativa suprimida"
