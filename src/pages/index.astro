@@ -2,8 +2,6 @@
 import Banner from "@/components/Banner.astro";
 import Features from "@/components/Features.astro";
 import Service from "@/components/Service.astro";
-import Testimonial from "@/components/Testimonial.astro";
-import VideoSection from "@/components/VideoSection.astro";
 import Base from "@/layouts/Base.astro";
 import Cta from "@/partials/Cta.astro";
 import { getEntry } from "astro:content";
@@ -16,8 +14,8 @@ const { banner, brands, features, intro, service, testimonial } = homepage.data;
   <Banner banner={banner} />
   <!-- <Brand brands={brands} /> -->
   <Features features={features} />
-  <VideoSection intro={intro} />
+  <!-- <VideoSection intro={intro} /> -->
   <Service service={service} />
-  <Testimonial testimonial={testimonial} />
+  <!-- <Testimonial testimonial={testimonial} /> -->
   <Cta />
 </Base>

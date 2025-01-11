@@ -70,48 +70,40 @@ features:
       link: "/servicos/iso-14001"
       content: "Consultoria para implementação da ISO 14001"
 
-#intro
-intro:
-  title: Built Exclusively For You
-  subtitle: SHORT INTRO VIDEO
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
-  thumbnail: "/images/videopopup.webp"
-  video_id: dyZcRRWiuuw
-
 #service
 service:
-  - title: You Will Not Miss Your All Misunderstandings
-    subtitle: PRIMARY SPECIALITY
-    description: Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the.
-    image: /images/features-01.webp
+  # - title: You Will Not Miss Your All Misunderstandings
+  #   subtitle: PRIMARY SPECIALITY
+  #   description: Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the.
+  #   image: /images/features-01.webp
 
-  - title: Say Hello To No-Code The Advance Creation
-    subtitle: SECONDARY SPECIALITY
-    description: From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code.
+  - title: Transformando Desafios Ambientais em Oportunidades Sustentáveis
+    subtitle: CONSULTORIA AMBIENTAL
+    description: Com mais de 5 anos de experiência na Serra Gaúcha, oferecemos soluções personalizadas em consultoria ambiental. Do licenciamento à gestão ambiental completa, transformamos conhecimento técnico em resultados sustentáveis para o seu negócio.
     image: /images/features-02.webp
 
 #Testimonial
-testimonial:
-  title: OUR TESTIMONIALS
-  subtitle: Don’t Take Our Word For It
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
-  left_thumbnail: /images/testimonials-01.png
-  right_thumbnail: /images/testimonials-01.png
-  list:
-    - author: David Cameron
-      avatar: /images/user-img/07-i.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/07-i.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/07-i.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/07-i.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
+# testimonial:
+#   title: OUR TESTIMONIALS
+#   subtitle: Don’t Take Our Word For It
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+#   left_thumbnail: /images/testimonials-01.png
+#   right_thumbnail: /images/testimonials-01.png
+#   list:
+#     - author: David Cameron
+#       avatar: /images/user-img/07-i.jpg
+#       profession: CEO, Nexuspay
+#       content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
+#     - author: David Cameron
+#       avatar: /images/user-img/07-i.jpg
+#       profession: CEO, Nexuspay
+#       content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
+#     - author: David Cameron
+#       avatar: /images/user-img/07-i.jpg
+#       profession: CEO, Nexuspay
+#       content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
+#     - author: David Cameron
+#       avatar: /images/user-img/07-i.jpg
+#       profession: CEO, Nexuspay
+#       content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
 ---
