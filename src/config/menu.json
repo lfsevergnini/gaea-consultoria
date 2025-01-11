@@ -68,39 +68,6 @@
       "url": "/blog"
     },
     {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Careers",
-          "url": "/careers"
-        },
-
-        {
-          "name": "Case Studies",
-          "url": "/case-studies"
-        },
-
-        {
-          "name": "Pricing",
-          "url": "/pricing"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Changelog",
-          "url": "/changelog"
-        },
-        {
-          "name": "Terms And Conditions",
-          "url": "/terms-and-conditions"
-        }
-      ]
-    },
-    {
       "name": "Contato",
       "url": "/contato"
     }

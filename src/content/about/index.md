@@ -12,17 +12,17 @@ about_us:
 
 ## our works
 works:
-  subtitle: OUR WORKS
-  title: What We Do
+  subtitle: Nossos Serviços
+  title: O Que Fazemos
   list:
-    - title: Building A New Class
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
-    - title: Design For Anyone
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
-    - title: Creative Flair Design
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
-    - title: Building Products
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
+    - title: Consultoria Ambiental Especializada
+      content: Com mais de 5 anos de experiência na Serra Gaúcha, oferecemos consultoria ambiental completa com foco em resultados. Nossa equipe técnica especializada transforma desafios ambientais em soluções sustentáveis para sua empresa.
+    - title: Licenciamento e Regularização
+      content: Conduzimos todo o processo de licenciamento ambiental, desde a Licença Prévia até a de Operação, com acompanhamento personalizado e contínuo. Garantimos a conformidade do seu negócio com todas as normas e legislações vigentes.
+    - title: Gestão Ambiental Integrada
+      content: Desenvolvemos e implementamos sistemas completos de gestão ambiental, incluindo ISO 14001, gestão de resíduos (PGRS), projetos de compostagem e sistemas de captação de água da chuva, sempre adaptados à realidade do seu negócio.
+    - title: Estudos e Projetos Técnicos
+      content: Elaboramos estudos de impacto ambiental, laudos técnicos, projetos de recuperação de áreas degradadas e oferecemos treinamentos especializados. Nossa metodologia garante resultados eficientes e economia real para sua empresa.
 
 ## our mission
 mission:
@@ -33,9 +33,15 @@ mission:
 
 ## short video
 video:
-  subtitle: A SHORT VIDEO
-  title: You Take Care Of The Payments, We Take Care Of The Rest.
-  description: Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistcy throughout the.
+  subtitle: Nosso Compromisso
+  title: Você cuida do seu negócio, nós cuidamos da sua gestão ambiental
+  description: Proteja o futuro do seu negócio com uma gestão ambiental eficiente e profissional. Nossa equipe especializada cuida de todo o processo, desde o diagnóstico inicial até a implementação das soluções, garantindo&colon;
+    <ul class="list-disc text-[.9rem] text-text max-lg:px-8">
+      <li>Conformidade total com a legislação ambiental</li>
+      <li>Economia real com processos mais eficientes</li>
+      <li>Acompanhamento contínuo e personalizado</li>
+      <li>Tranquilidade na gestão ambiental do seu negócio</li>
+    </ul>
   video_id: dyZcRRWiuuw
   thumbnail: /images/about-video.webp
 
@@ -68,21 +74,21 @@ our_member:
       image: /images/about/team/01.webp
 
 ## office
-our_office:
-  subtitle: OUR OFFICES
-  title: Made With Love Of Around The </br> World With Many Offices
-  description: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
-  countries:
-    - flag: /images/about/flags/us.png
-      name: NewYork, USA
-      location: 219 Bald Hill Drive Oakland Gardens, NY 11364
-    - flag: /images/about/flags/au.png
-      name: Australia, Perth
-      location: Flat 23 80 Anthony Circlet Port Guiseppe, TAS 2691
-    - flag: /images/about/flags/germany.png
-      name: Berlin, Germany
-      location: Jl Raya Dewi Sartika Ged Harapan Masa, Br Germeny
-    - flag: /images/about/flags/china.png
-      name: China, Wohan
-      location: 1hao Wen Ti Huo Dong Zhong Xin 1ceng Jian Xing
+# our_office:
+#   subtitle: OUR OFFICES
+#   title: Made With Love Of Around The </br> World With Many Offices
+#   description: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
+#   countries:
+#     - flag: /images/about/flags/us.png
+#       name: NewYork, USA
+#       location: 219 Bald Hill Drive Oakland Gardens, NY 11364
+#     - flag: /images/about/flags/au.png
+#       name: Australia, Perth
+#       location: Flat 23 80 Anthony Circlet Port Guiseppe, TAS 2691
+#     - flag: /images/about/flags/germany.png
+#       name: Berlin, Germany
+#       location: Jl Raya Dewi Sartika Ged Harapan Masa, Br Germeny
+#     - flag: /images/about/flags/china.png
+#       name: China, Wohan
+#       location: 1hao Wen Ti Huo Dong Zhong Xin 1ceng Jian Xing
 ---
