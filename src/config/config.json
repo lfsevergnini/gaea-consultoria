@@ -29,12 +29,12 @@
   "params": {
     "contact_form_action": "#",
     "career_form_action": "#",
-    "copyright": "© 2024 Gaea Consultoria Ambiental. Todos os direitos reservados."
+    "copyright": "© 2025 Gaea Consultoria Ambiental. Todos os direitos reservados."
   },
 
   "footer_data": {
     "description": "Consultoria especializada em engenharia ambiental e soluções sustentáveis.",
-    "email": "contato@gaeaconsultoria.com.br",
+    "email": "gaeaconsultoria@gmail.com",
     "location": "Serra Gaúcha - RS, Brasil",
     "address": "Atendimento sob agendamento - R. da República, 425 - 6º Andar - Centro, Farroupilha - RS",
     "postal_code": "95170-484",
@@ -59,7 +59,7 @@
 
   "email": {
     "title": "Email",
-    "contact": ["contato@gaeaconsultoria.com.br"]
+    "contact": ["gaeaconsultoria@gmail.com"]
   },
 
   "phone": {
