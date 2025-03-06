@@ -1,6 +1,6 @@
 ---
-import { Image } from "astro:assets";
 import Social from "@/components/Social.astro";
+import { Image } from "astro:assets";
 import Blog from "./components/Blog.astro";
 
 const { author, blogs } = Astro.props;
@@ -33,7 +33,7 @@ const { Content } = await author.render();
       <div class="lg:col-8">
         <div class="col-12">
           <h2 class="mb-3 text-h3">
-            Recent Post By <span class="text-primary">{title}</span>
+            Postagens Recentes de <span class="text-primary">{title}</span>
           </h2>
         </div>
         <div class="row">

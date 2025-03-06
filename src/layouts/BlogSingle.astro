@@ -1,5 +1,4 @@
 ---
-import { Image } from "astro:assets";
 import SimilarPosts from "@/components/SimilarPosts.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
@@ -7,6 +6,7 @@ import readingTime from "@/lib/utils/readingTime";
 import similerItems from "@/lib/utils/similarItems";
 import { slugify } from "@/lib/utils/textConverter";
 import Cta from "@/partials/Cta.astro";
+import { Image } from "astro:assets";
 import Disqus from "./jsx-components/Disqus";
 
 const blogs = await getSinglePage("blog");
@@ -80,7 +80,7 @@ const { title, author, image, date } = post.data;
 <section class="section">
   <div class="container">
     <div class="section-title">
-      <h2 class="title mb-8 text-center">Related Articles</h2>
+      <h2 class="title mb-8 text-center">Artigos Relacionados</h2>
     </div>
     <SimilarPosts blogs={similarPosts[0].slice(0, 2)} />
   </div>
