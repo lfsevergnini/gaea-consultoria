@@ -5,7 +5,7 @@ banner:
   meta: "Consultoria Ambiental"
   link:
     label: "Solicite um Orçamento"
-    href: "#"
+    href: "/contato"
 
 ##brands
 # brands:
