@@ -1,6 +1,6 @@
 ---
-import { Image } from "astro:assets";
 import { markdownify } from "@/lib/utils/textConverter";
+import { Image } from "astro:assets";
 const { service } = Astro.props;
 ---
 
@@ -39,7 +39,7 @@ const { service } = Astro.props;
                 src={el.image}
                 height={511}
                 width={575}
-                class="max-w-full"
+                class="mx-auto w-auto max-h-[571px]"
                 alt="service"
               />
             </div>

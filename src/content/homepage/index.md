@@ -1,7 +1,8 @@
 ---
 banner:
   title: "Gaea é a sua parceira em soluções ambientais sustentáveis"
-  image: /images/bannerimage.webp
+  # image: /images/bannerimage.jpg
+  # image_mobile: /images/bannerimage-mobile.jpg
   meta: "Consultoria Ambiental"
   link:
     label: "Solicite um Orçamento"
