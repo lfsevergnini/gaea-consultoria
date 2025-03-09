@@ -38,7 +38,7 @@ const VideoComponent = ({
             height={height}
             src={src}
             alt={title}
-            className="inline h-auto max-w-full rounded-2xl"
+            className="inline w-auto max-h-[571px] rounded-2xl"
           />
         </div>
       ) : (
