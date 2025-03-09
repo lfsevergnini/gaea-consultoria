@@ -4,6 +4,7 @@ import VideoComponent from "../../jsx-components/VideoComponent";
 import Circle from "../Circle.astro";
 const {
   video: { title, subtitle, description, thumbnail, video_id },
+  disabled = false,
 } = Astro.props;
 ---
 
@@ -33,6 +34,7 @@ const {
           video_id={video_id}
           video_height="h-[256px]"
           video_width="w-[470px]"
+          disabled={disabled}
         />
       </div>
     </div>

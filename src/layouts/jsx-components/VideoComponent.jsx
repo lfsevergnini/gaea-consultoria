@@ -10,6 +10,7 @@ const VideoComponent = ({
   video_id,
   video_height,
   video_width,
+  disabled = false,
 }) => {
   const [play, setPlay] = useState(false);
   const videoOptions = {
@@ -23,13 +24,15 @@ const VideoComponent = ({
     <>
       {!play ? (
         <div className="relative text-center">
-          <button
-            className="play-button"
-            aria-label="play-video"
-            onClick={() => setPlay(true)}
-          >
-            <Play />
-          </button>
+          {!disabled && (
+            <button
+              className="play-button"
+              aria-label="play-video"
+              onClick={() => setPlay(true)}
+            >
+              <Play />
+            </button>
+          )}
           <img
             width={width}
             height={height}

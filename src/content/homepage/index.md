@@ -80,7 +80,7 @@ service:
   - title: Transformando Desafios Ambientais em Oportunidades Sustentáveis
     subtitle: CONSULTORIA AMBIENTAL
     description: Com mais de 5 anos de experiência na Serra Gaúcha, oferecemos soluções personalizadas em consultoria ambiental. Do licenciamento à gestão ambiental completa, transformamos conhecimento técnico em resultados sustentáveis para o seu negócio.
-    image: /images/features-02.webp
+    image: /images/gaea/erlen-mayer.webp
 
 #Testimonial
 # testimonial:
