@@ -8,7 +8,7 @@ about_us:
   subtitle: Quem Somos
   title: Somos a Gaea e estamos aqui para ajudar
   description: A Gaea Consultoria Ambiental é uma empresa especializada em prestar serviços de assessoria e consultoria ambiental para os mais diversos setores da sociedade, com forte atuação na Serra Gaúcha. Com mais de cinco anos de experiência na área, nosso compromisso é com o desenvolvimento sustentável e o cumprimento rigoroso da legislação ambiental, oferecendo soluções personalizadas para cada cliente.
-  image: /images/gaea/cartao.webp
+  image: /images/gaea/perfil-01.webp
 
 ## our works
 works:
