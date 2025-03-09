@@ -68,10 +68,10 @@ our_member:
   list:
     - name: Bárbara Panisson
       field: Engenheira Sanitarista e Ambiental | CEO
-      image: /images/about/team/01.webp
+      image: /images/about/team/barbara.webp
     - name: Luís Severgnini
       field: Especialista em Soluções Digitais
-      image: /images/about/team/01.webp
+      image: /images/about/team/luis.webp
 
 ## office
 # our_office:
